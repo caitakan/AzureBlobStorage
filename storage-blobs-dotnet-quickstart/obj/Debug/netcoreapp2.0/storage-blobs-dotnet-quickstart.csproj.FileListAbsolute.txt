@@ -1,0 +1,11 @@
+D:\bing\NewPulse\storage-blobs-dotnet-quickstart\storage-blobs-dotnet-quickstart\bin\Debug\netcoreapp2.0\storage-blobs-dotnet-quickstart.deps.json
+D:\bing\NewPulse\storage-blobs-dotnet-quickstart\storage-blobs-dotnet-quickstart\bin\Debug\netcoreapp2.0\storage-blobs-dotnet-quickstart.runtimeconfig.json
+D:\bing\NewPulse\storage-blobs-dotnet-quickstart\storage-blobs-dotnet-quickstart\bin\Debug\netcoreapp2.0\storage-blobs-dotnet-quickstart.runtimeconfig.dev.json
+D:\bing\NewPulse\storage-blobs-dotnet-quickstart\storage-blobs-dotnet-quickstart\bin\Debug\netcoreapp2.0\storage-blobs-dotnet-quickstart.dll
+D:\bing\NewPulse\storage-blobs-dotnet-quickstart\storage-blobs-dotnet-quickstart\bin\Debug\netcoreapp2.0\storage-blobs-dotnet-quickstart.pdb
+D:\bing\NewPulse\storage-blobs-dotnet-quickstart\storage-blobs-dotnet-quickstart\obj\Debug\netcoreapp2.0\storage-blobs-dotnet-quickstart.csprojResolveAssemblyReference.cache
+D:\bing\NewPulse\storage-blobs-dotnet-quickstart\storage-blobs-dotnet-quickstart\obj\Debug\netcoreapp2.0\storage-blobs-dotnet-quickstart.csproj.CoreCompileInputs.cache
+D:\bing\NewPulse\storage-blobs-dotnet-quickstart\storage-blobs-dotnet-quickstart\obj\Debug\netcoreapp2.0\storage-blobs-dotnet-quickstart.AssemblyInfoInputs.cache
+D:\bing\NewPulse\storage-blobs-dotnet-quickstart\storage-blobs-dotnet-quickstart\obj\Debug\netcoreapp2.0\storage-blobs-dotnet-quickstart.AssemblyInfo.cs
+D:\bing\NewPulse\storage-blobs-dotnet-quickstart\storage-blobs-dotnet-quickstart\obj\Debug\netcoreapp2.0\storage-blobs-dotnet-quickstart.dll
+D:\bing\NewPulse\storage-blobs-dotnet-quickstart\storage-blobs-dotnet-quickstart\obj\Debug\netcoreapp2.0\storage-blobs-dotnet-quickstart.pdb
